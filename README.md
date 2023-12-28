@@ -1,12 +1,9 @@
 ![logo](https://github.com/israk-hossain/israk-hossain/blob/main/CoverImage.png)
-
-
-
 <h1 align="center">Hi 👋, I'm Israk Hossain</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=israk-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="israk-hossain" /> </p>
+
 
 - I’m currently working on [Advance Blight-resistant Potato Varieties](https://www.tendersinfo.com/tenders_details/498177835?desc=Advance-Blightresistant-Potato-Varieties)
 
@@ -14,7 +11,7 @@
 
 - I’m looking to collaborate on [Bangladesh: Dhaka Integrated Corridor Management Project](https://www.tendersinfo.com/tenders_details/466103371?desc=Bangladesh-Dhaka-Integrated-Corridor-Management-Project)
 
-- Ask me about **code**
+- Ask me about **Solve**
 
 - How to reach me **rumonisrak@gmail.com**
 
@@ -38,4 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israk-hossain&" alt="israk-hossain" /></p>
 <h3 align="left">Support:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=israk-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="israk-hossain" /> </p>
 <p><a href="https://www.buymeacoffee.com/israk-hossain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="israk-hossain" /></a></p><br><br>
