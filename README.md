@@ -27,11 +27,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=onedark&preferLogin=true">    <img  alt="israk-hossain's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/israk-hossain?cardType=level&theme=onedark&preferLogin=true" />  </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israk-hossain&show_icons=true&locale=en&layout=compact" alt="israk-hossain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=israk-hossain&show_icons=true&locale=en&layout=compact" alt="israk-hossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israk-hossain&show_icons=true&locale=en" alt="israk-hossain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israk-hossain&" alt="israk-hossain" /></p>
 <h3 align="left">Support:</h3>
